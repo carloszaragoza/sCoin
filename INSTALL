@@ -1,0 +1,9 @@
+Building sCoin
+
+See doc/readme-qt.rst for instructions on building sCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of sCoin.
+
+See doc/build-*.txt for instructions on building sCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of sCoin.
