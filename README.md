@@ -8,9 +8,8 @@ sCoin (SCO): Next-Generation 2.0 Inflation Coin
 - logo : http://i.imgur.com/4uS8uh3.png  
 - currently in perpetual beta test.  
 - Available platforms: Linux, Windows. No Mac ATM  
-  
-sCoin Pool: http://198.245.52.17/index.php?page=dashboard  
-Block Explorer (current working) : ShaneCurran    
+
+Block Explorer: http://72.200.125.180:8001/chain/sCoin 
 Website: www.s-coin.org  
 subredit: /r/sCoin  
 IRC @ freenode: #sCoin  
