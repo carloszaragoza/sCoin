@@ -9,7 +9,8 @@ sCoin (SCO): Next-Generation 2.0 Inflation Coin
 - currently in perpetual beta test.  
 - Available platforms: Linux, Windows. No Mac ATM  
 
-Block Explorer: http://72.200.125.180:8001/chain/sCoin 
+Block Explorer: http://72.200.125.180:8001/chain/sCoin  
+
 Website: www.s-coin.org  
 subredit: /r/sCoin  
 IRC @ freenode: #sCoin  
