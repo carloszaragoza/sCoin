@@ -232,6 +232,7 @@ std::string FormatSubVersion(const std::string& name, int nClientVersion, const 
 void AddTimeData(const CNetAddr& ip, int64 nTime);
 void runCommand(std::string strCommand);
 
+void DoubleToNumeratorDenominator(double inDouble, long long *outNumerator, long long *outDenominator); // For the difficulty update in GetNextWorkRequired
 
 
 
