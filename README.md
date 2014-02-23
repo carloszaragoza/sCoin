@@ -11,7 +11,7 @@ sCoin (SCO): version 0.92
 - currently in perpetual beta test.  
 - Available platforms: Linux, Windows. No Mac ATM  
 
-Block Explorer: http://72.200.125.180:8001/chain/sCoin  
+Block Explorer: http://altexplorer.net/chain/sCoin
 
 Website: www.s-coin.org  
 subredit: /r/sCoin  
