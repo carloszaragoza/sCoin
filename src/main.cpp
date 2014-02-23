@@ -1072,7 +1072,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 2.5*60; //going by LOL rate
+static const int64 nTargetTimespan = 4 * 60 * 60; //restoring to 5 hours
 static const int64 nTargetSpacing = 2.5 * 60; // Scoin: 2.5 minutes
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
