@@ -4,8 +4,8 @@ sCoin (SCO): version 0.92
 - **no hard cap of upper coin limit**, will reach **4.2 trillion sCoins** in circulation in 1-2 years  
 - 5 millions coin per block  
 - 2.5 block generation time   
-- target re-difficulty EVERY block
-- pre-mine 3200 blocks (< 0.5%) for dev supports, giveaways and exchange listings  
+- target re-difficulty using Kimoto Gravity Well 
+- pre-mine 600 blocks for dev supports, giveaways and exchange listings  
 - devs: SAMtoshi Nakamoto, temp__, ShaneCurran . Also consulants: bUzz, MogStyle,lime  
 - logo : http://i.imgur.com/4uS8uh3.png  
 - currently in perpetual beta test.  
